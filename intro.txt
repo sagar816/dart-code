@@ -22,3 +22,19 @@ disadvantage - loose code
 
 **************************************************
 
+dart - installation
+
+google > flutter download for windows/ioS
+
+> Get the flutter SDK
+This will also install dart
+zip file will download : 1-2 GB
+extract zip
+extract files > c > new folder > extract
+cmd > environment variables
+System Properties > Advanced > Environment Variables > User Variables and System Variables
+System variables > Path > Edit > New > (copy flutter/bin address) > paste > ok
+cmd > flutter doctor > not recognised, but env variable is added > restart and see again
+
+**************************************************
+5
