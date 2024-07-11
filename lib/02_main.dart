@@ -26,4 +26,13 @@ void main() {
   // **************************************
 
   print("Assignments 01");
+// Print your all family name in ascending order 
+// Write dart program to create  square shape with steric(*) 
+// Write dart program rectangle shape with steric(*)
+// Write dart program triangle shapes with  steric(*)
+// Write dart program pentagon shape with steric(*)
+// Write dart program circle shape with  steric(*)
+// Write dart program Heart shape with steric (*)
+// Write dart program to print full pyramid using *
+
 }
