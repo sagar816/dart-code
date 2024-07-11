@@ -1,0 +1,24 @@
+Intro
+
+Dart is 90 percent javascript or java
+What is programming?
+PC a dumb machine.Obedient Master - Only follows given instruction. >binary - 1 0
+We cant write , binary, so we use programming language to communicate to computer.
+Computer - get code from humans, compile(compiler) and convert to languange that PC can understand
+
+**************************************************
+
+IDE - compile time fast
+Android Studio - heavy
+Visual Code 
+
+dart is used as backend language for flutter apps
+We make cross , hybrid applications, multi platforms apps, write single code and application for diffrent platforms is made easily including ioS, android, desktop, web, etc
+
+For online coding - google introduces "Dart Pad" software
+dartpad.dev
+disadvantage - loose code
+
+
+**************************************************
+
