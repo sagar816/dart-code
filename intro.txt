@@ -36,5 +36,10 @@ System Properties > Advanced > Environment Variables > User Variables and System
 System variables > Path > Edit > New > (copy flutter/bin address) > paste > ok
 cmd > flutter doctor > not recognised, but env variable is added > restart and see again
 
+cmd > dart --version
+
 **************************************************
-5
+
+VS code > download > install
+
+File > Preference > Extensions > Dart
